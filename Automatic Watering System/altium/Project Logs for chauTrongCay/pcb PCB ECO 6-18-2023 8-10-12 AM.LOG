@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TXD Pin=CN1-2
+Removed Pin From Net: NetName=RXD Pin=CN1-3
+Added Pin To Net: NetName=RXD Pin=CN1-2
+Added Pin To Net: NetName=TXD Pin=CN1-3
+Added Member To Class: ClassName=sch Member=Component M? Module LCD 1602 I2C
+Added Room: Name=sch

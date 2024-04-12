@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=D9 Pin=R2-2
+Added Pin To Net: NetName=D7 Pin=R2-1
+Added Pin To Net: NetName=D6 Pin=R2-2
+Added Pin To Net: NetName=D6 Pin=SW2-1
+Added Pin To Net: NetName=D7 Pin=SW3-1
+Added Member To Class: ClassName=sch Member=Component M? Module LCD 1602 I2C

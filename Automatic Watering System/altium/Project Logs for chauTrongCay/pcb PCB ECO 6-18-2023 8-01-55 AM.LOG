@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=SCL Pin=CN2-2
+Removed Pin From Net: NetName=SDA Pin=CN2-3
+Removed Pin From Net: NetName=+5V Pin=CN2-4
+Removed Pin From Net: NetName=GND Pin=CN2-5
+Removed Pin From Net: NetName=GND Pin=CN3-1
+Removed Pin From Net: NetName=+5V Pin=CN3-2
+Removed Pin From Net: NetName=SDA Pin=CN3-3
+Removed Pin From Net: NetName=SCL Pin=CN3-4
+Removed Member From Class: ClassName=sch Member=CN2
+Removed Member From Class: ClassName=sch Member=CN3
+Change Component Comment : Designator=R2 Old Comment=RES_PACK_8R New Comment=RES_PACK_10K
+Added Component: Designator=M?(LCD1602_I2C)
+Added Component: Designator=M?(RTCmODULE)
+Added Pin To Net: NetName=GND Pin=M?-1
+Added Pin To Net: NetName=+5V Pin=M?-2
+Added Pin To Net: NetName=SCL Pin=M?-2
+Added Pin To Net: NetName=SDA Pin=M?-3
+Added Pin To Net: NetName=SDA Pin=M?-3
+Added Pin To Net: NetName=+5V Pin=M?-4
+Added Pin To Net: NetName=SCL Pin=M?-4
+Added Pin To Net: NetName=GND Pin=M?-5
+Added Member To Class: ClassName=sch Member=Component M? Module LCD 1602 I2C
+Added Member To Class: ClassName=sch Member=Component M? RTC1307 MODULE
+Added Room: Name=sch

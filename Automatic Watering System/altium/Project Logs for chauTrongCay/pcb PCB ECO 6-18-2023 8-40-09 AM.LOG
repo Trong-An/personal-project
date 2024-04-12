@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=M? NewDesignator=M2
+Added Component: Designator=CN2(CON.HDR1X6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey Part link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Open DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "H:\LIBRARY\LIBRARY.Datasheet\"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Hoang Nguyen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN2-1
+Added Pin To Net: NetName=+5V Pin=CN2-2
+Added Pin To Net: NetName=A0 Pin=CN2-3
+Added Pin To Net: NetName=A1 Pin=CN2-4
+Added Pin To Net: NetName=A2 Pin=CN2-5
+Added Pin To Net: NetName=A3 Pin=CN2-6
+Added Member To Class: ClassName=sch Member=Component CN2 IO
+Added Member To Class: ClassName=sch Member=Component M2 Module LCD 1602 I2C
+Added Room: Name=sch

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D1 Old Footprint=D2A New Footprint=D5A
+Change Component Footprint: Designator=D2 Old Footprint=D2A New Footprint=D5A
+Change Component Comment : Designator=D1 Old Comment=1N4007 New Comment=1N5408
+Change Component Comment : Designator=D2 Old Comment=1N4007 New Comment=1N5408
+Change component parameters: Designator = "D1" ("D1"); Footprint = "D2A"; UniqueID = "\LWGRPRLB" ("\LWGRPRLB")
+Change component parameters (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "D2A"; UniqueID = "\QUVOBQAW" ("\QUVOBQAW")
+Change component parameters (AddParameter): Name = "Value"; Value = "1N5408"; VariantName = "[No Variations]"
+Added Room: Name=sch
